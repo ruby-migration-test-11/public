@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-    s.name        = 'mygem-during-migration-org-visibility-pub'
+    s.name        = 'mygem-during-migration-org-visibility-pub1'
     s.version     = '1.0.0'
     s.licenses    = ['MIT']
     s.summary     = "Summary"
